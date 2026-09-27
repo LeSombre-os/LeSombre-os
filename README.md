@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Salut, moi c'est LeSombre
 
-<!--
-**LeSombre-os/LeSombre-os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+J'expérimente, je teste des choses et je les publie ici : apps locales, bots,
+outils perso. Des projets d'apprentissage, partagés tels quels.
 
-Here are some ideas to get you started:
+I tinker, test things and publish them here: local apps, bots, personal tools.
+Learning projects, shared as-is.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Projets / Projects
+
+- 🏋️ **Sport** — carnet d'entraînement PWA : saisie des séances sur mobile,
+  dashboard d'analyse sur PC, 100 % local et offline.
+- 🧩 **Conversation-Insight** — extension navigateur qui capture une
+  conversation web et génère un prompt d'analyse LLM (ton, intentions),
+  local-first.
+- ⬇️ **youtube-audio-dl** — téléchargeur audio YouTube → MP3, app locale.
+- *(…et d'autres expériences à venir / …and more experiments to come)*
+
+## 📫 Contact
+
+Une question ou autre ? → Discord : **lesombre**
+
+A question or anything else? → Discord: **lesombre**
